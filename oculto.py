@@ -4,6 +4,8 @@ pyobf — ofuscador de código Python basado en AST
 
 Eds una herramienta facil de utilizar y con posibles mejoras futuras
 
+Xelaastone
+
 Técnicas:
   * Renombrado de identificadores (funciones, clases, argumentos y variables
     locales) a nombres sin significado, respetando builtins, imports y la API
