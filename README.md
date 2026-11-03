@@ -1,8 +1,7 @@
 # Ofuscadores-para-codigo
-Este es un repositorio con alguno scripts para ofuscar tu codigo
+Este es un repositorio con alguno scripts para ofuscar tu codigo es sencillo de usar y se puedde llegar a mejorar
 
 
-Uso : 
       
 Uso:
     python pyobf.py entrada.py -o salida.py
