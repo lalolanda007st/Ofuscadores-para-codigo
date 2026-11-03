@@ -7,6 +7,4 @@ Uso:
 
     python pyobf.py entrada.py -o salida.py
 
-
-    
-    python pyobf.py entrada.py --rename-globals --keep main,API_KEY
+   python pyobf.py entrada.py --rename-globals --keep main,API_KEY
